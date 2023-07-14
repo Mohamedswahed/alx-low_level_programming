@@ -1,16 +1,15 @@
 #include <stdio.h>
 
 /**
- *main: entry point
+ * main - Entry point
  *
- *description: prints Using the function puts
- * 
- *return: the program return zero
-*/
-
+ * Description: this program will  Print message using puts()
+ *
+ * Return: Always 0 (Success)
+ */
 int main(void)
 {
 	puts("\"Programming is like building a multilingual puzzle");
+
 	return (0);
 }
-
