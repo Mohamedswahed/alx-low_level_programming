@@ -1,1 +1,1 @@
-Hello world exercises
+Pointers, arrays and strings exercisess
