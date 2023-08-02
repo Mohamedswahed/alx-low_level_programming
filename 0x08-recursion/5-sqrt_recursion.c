@@ -3,7 +3,7 @@
 /**
  * _sqrt_assist - assist function to help _sqrt_recursion function
  * @n: number
- * @i: increment value 
+ * @i: increment value
  *
  * Return: natural square root of n
  */
