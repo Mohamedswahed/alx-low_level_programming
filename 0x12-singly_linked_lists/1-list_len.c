@@ -3,7 +3,7 @@
 
 /**
  * list_len - returns the number of elements
- * @h: pointer to the list_t 
+ * @h: pointer to the list_t
  *
  * Return: number of elements
  */
