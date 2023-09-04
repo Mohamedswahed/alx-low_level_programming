@@ -1,6 +1,7 @@
 #include "main.h"
 
 /**
+ * main - entry point
  * description: copies the content of a file to another file
  * @argc: number of arguments
  * @argv: array of arguments
