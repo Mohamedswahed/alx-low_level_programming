@@ -2,7 +2,7 @@
 
 /**
  * key_index: Get the index of a key/value
- * @key: key to get the index 
+ * @key: key to get the index
  * @size: size of the array of the hash table.
  *
  * Return: index of the key.
